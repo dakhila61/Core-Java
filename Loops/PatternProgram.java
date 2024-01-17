@@ -3,7 +3,6 @@ package Loops;
 public class PatternProgram {
 
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
         int rows = 5;
 
         // Outer loop for rows
