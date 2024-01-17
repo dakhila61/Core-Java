@@ -1,4 +1,4 @@
-package Assignment5;
+package OOPS;
 
 public class ChildClass extends ParentClass{
     private int childVariable;

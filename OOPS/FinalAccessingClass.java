@@ -1,4 +1,4 @@
-package Assignment5;
+package OOPS;
 
 public class FinalAccessingClass { public static void main(String[] args) {
     FinalClass myInstance = new FinalClass();

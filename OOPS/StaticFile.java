@@ -1,4 +1,4 @@
-package Assignment5;
+package OOPS;
 
 public class StaticFile {
     private static int staticVariable = 0;

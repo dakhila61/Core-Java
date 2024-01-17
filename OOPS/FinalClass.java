@@ -1,4 +1,4 @@
-package Assignment5;
+package OOPS;
 
 final class FinalClass {
     // Final variable
