@@ -1,4 +1,4 @@
-package OOPS;
+package oops;
 
 public class ParentClass {
     protected int parentVariable;

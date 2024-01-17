@@ -1,4 +1,4 @@
-package OOPS;
+package oops;
 
 public class FinalAccessingClass { public static void main(String[] args) {
     FinalClass myInstance = new FinalClass();

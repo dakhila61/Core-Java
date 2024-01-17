@@ -1,4 +1,4 @@
-package OOPS;
+package oops;
 
 public class StaticFile {
     private static int staticVariable = 0;

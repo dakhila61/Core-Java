@@ -1,4 +1,4 @@
-package OOPS;
+package oops;
 
 final class FinalClass {
     // Final variable
